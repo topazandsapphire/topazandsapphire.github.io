@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//topazandsapphire.github.io/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//topazandsapphire.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://topazandsapphire.github.io/</loc>
+		<loc>https://topazandsapphire.com/</loc>
 	</url>
 	<url>
-		<loc>https://topazandsapphire.github.io/contact/</loc>
+		<loc>https://topazandsapphire.com/contact/</loc>
 		<lastmod>2015-07-30T14:59:22-04:00</lastmod>
 	</url>
 	<url>
-		<loc>https://topazandsapphire.github.io/about/</loc>
+		<loc>https://topazandsapphire.com/about/</loc>
 		<lastmod>2018-11-06T10:41:07-04:00</lastmod>
 		<image:image>
-			<image:loc>https://topazandsapphire.github.io/wp-content/uploads/2015/04/MG_7379-copy.jpg</image:loc>
+			<image:loc>https://topazandsapphire.com/wp-content/uploads/2015/04/MG_7379-copy.jpg</image:loc>
 			<image:caption><![CDATA[_mg_7379-copy]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://topazandsapphire.github.io/wp-content/uploads/2015/04/MG_7262.jpg</image:loc>
+			<image:loc>https://topazandsapphire.com/wp-content/uploads/2015/04/MG_7262.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://topazandsapphire.github.io/wp-content/uploads/2015/04/MG_7248.jpg</image:loc>
+			<image:loc>https://topazandsapphire.com/wp-content/uploads/2015/04/MG_7248.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>

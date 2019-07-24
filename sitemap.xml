@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//topazandsapphire.github.io/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//topazandsapphire.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://topazandsapphire.github.io/post-sitemap.xml</loc>
+		<loc>https://topazandsapphire.com/post-sitemap.xml</loc>
 		<lastmod>2019-04-11T11:17:52-04:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://topazandsapphire.github.io/page-sitemap.xml</loc>
+		<loc>https://topazandsapphire.com/page-sitemap.xml</loc>
 		<lastmod>2018-11-06T10:41:07-04:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://topazandsapphire.github.io/attachment-sitemap.xml</loc>
+		<loc>https://topazandsapphire.com/attachment-sitemap.xml</loc>
 		<lastmod>2019-02-06T12:16:17-04:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://topazandsapphire.github.io/category-sitemap.xml</loc>
+		<loc>https://topazandsapphire.com/category-sitemap.xml</loc>
 		<lastmod>2019-04-11T11:17:52-04:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://topazandsapphire.github.io/post_tag-sitemap.xml</loc>
+		<loc>https://topazandsapphire.com/post_tag-sitemap.xml</loc>
 		<lastmod>2019-04-11T11:17:52-04:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://topazandsapphire.github.io/author-sitemap.xml</loc>
+		<loc>https://topazandsapphire.com/author-sitemap.xml</loc>
 		<lastmod>2019-04-28T18:44:33-04:00</lastmod>
 	</sitemap>
 </sitemapindex>

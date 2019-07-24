@@ -1,43 +1,43 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//topazandsapphire.github.io/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//topazandsapphire.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://topazandsapphire.github.io/category/abode/</loc>
+		<loc>https://topazandsapphire.com/category/abode/</loc>
 		<lastmod>2019-04-11T11:15:52-04:00</lastmod>
 	</url>
 	<url>
-		<loc>https://topazandsapphire.github.io/category/career/</loc>
+		<loc>https://topazandsapphire.com/category/career/</loc>
 		<lastmod>2019-04-11T11:17:30-04:00</lastmod>
 	</url>
 	<url>
-		<loc>https://topazandsapphire.github.io/category/current-events/</loc>
+		<loc>https://topazandsapphire.com/category/current-events/</loc>
 		<lastmod>2019-04-11T11:17:14-04:00</lastmod>
 	</url>
 	<url>
-		<loc>https://topazandsapphire.github.io/category/eats/</loc>
+		<loc>https://topazandsapphire.com/category/eats/</loc>
 		<lastmod>2019-04-11T11:15:52-04:00</lastmod>
 	</url>
 	<url>
-		<loc>https://topazandsapphire.github.io/category/living-well/</loc>
+		<loc>https://topazandsapphire.com/category/living-well/</loc>
 		<lastmod>2019-04-11T11:16:15-04:00</lastmod>
 	</url>
 	<url>
-		<loc>https://topazandsapphire.github.io/category/product-review/</loc>
+		<loc>https://topazandsapphire.com/category/product-review/</loc>
 		<lastmod>2019-04-11T11:16:07-04:00</lastmod>
 	</url>
 	<url>
-		<loc>https://topazandsapphire.github.io/category/sweat/</loc>
+		<loc>https://topazandsapphire.com/category/sweat/</loc>
 		<lastmod>2019-04-11T11:17:07-04:00</lastmod>
 	</url>
 	<url>
-		<loc>https://topazandsapphire.github.io/category/travel/</loc>
+		<loc>https://topazandsapphire.com/category/travel/</loc>
 		<lastmod>2019-04-11T11:17:38-04:00</lastmod>
 	</url>
 	<url>
-		<loc>https://topazandsapphire.github.io/category/uncategorized/</loc>
+		<loc>https://topazandsapphire.com/category/uncategorized/</loc>
 		<lastmod>2019-04-11T11:17:52-04:00</lastmod>
 	</url>
 	<url>
-		<loc>https://topazandsapphire.github.io/category/career/women-who-work/</loc>
+		<loc>https://topazandsapphire.com/category/career/women-who-work/</loc>
 		<lastmod>2019-04-11T11:15:24-04:00</lastmod>
 	</url>
 </urlset>
